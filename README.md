@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TerryWainaina
+- 👋 Hi, I’m @TerryGWilliams
 - 👀 I’m interested in cybersecurity and networking
 - 🌱 I’m currently learning information technology
 - 💞️ I’m looking to collaborate on tech projects to enhance my skills
